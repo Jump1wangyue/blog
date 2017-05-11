@@ -1,2 +1,2 @@
-# blog
-blog
+# myBlog
+功不唐捐
